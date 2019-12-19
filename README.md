@@ -9,3 +9,4 @@ simulating the waiting line in a doutor coffee shop
 
 result.csvをグラフで表すと以下のようになる。
 
+![image](https://user-images.githubusercontent.com/32972443/71176634-9c963e00-22ad-11ea-9377-41670ca990fc.png)
